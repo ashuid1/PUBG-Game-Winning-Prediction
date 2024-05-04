@@ -1,5 +1,8 @@
 # PUBG-Game-Winning-Prediction
 
+Link of the dataset that is used in the project
+- https://drive.google.com/file/d/19Ro1hqpw9dTwCN5_e7aQUYk1Idqancd7/view?usp=drive_link
+
 ## Overview
 This repository contains code for a machine learning project aimed at predicting the outcome of PlayerUnknown's Battlegrounds (PUBG) matches. PUBG is a popular battle royale game where up to 100 players fight to be the last one standing on an island.
 
