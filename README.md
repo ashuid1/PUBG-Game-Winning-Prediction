@@ -5,3 +5,9 @@
 3. Feature Engineering: Derived new features to capture player behavior and game dynamics.
 4. Model Selection: Explored various machine learning algorithms and evaluated their performance.
 5. Evaluation Metrics: Used accuracy, precision, recall, and F1 score to assess model performance.
+
+
+## Results
+1. Achieved high accuracy in predicting PUBG match winners.
+2. Identified significant gameplay metrics influencing match outcomes.
+3. Provided insights for players and esports analysts to improve strategies.
